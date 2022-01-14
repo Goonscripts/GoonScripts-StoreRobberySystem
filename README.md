@@ -2,7 +2,9 @@
  
 Work in Progress. Try if you want
 
-1 store to rob at the moment
+Stores to rob at the moment (Grove Street)
+
+Currently no blips
 
 You need Mythic-Notify
 
