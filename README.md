@@ -8,3 +8,4 @@ You need Mythic-Notify
 
 ESX
 
+Currently in Swedish to change to english just change sv to en in the config
