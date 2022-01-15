@@ -2,9 +2,11 @@
  
 Work in Progress. Try if you want
 
-Stores to rob at the moment (Grove Street)
+10 Stores to rob at the moment 
 
-Currently no blips
+blips
+
+Police Notifications where they can press e and get a gps location
 
 You need Mythic-Notify
 
