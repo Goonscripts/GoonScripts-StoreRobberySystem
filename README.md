@@ -8,8 +8,9 @@ blips
 
 Police Notifications where they can press e and get a gps location
 
-You need Mythic-Notify
+You need: 
 
+mythic_notify
 ESX
 
 Currently in Swedish to change to english just change sv to en in the config
