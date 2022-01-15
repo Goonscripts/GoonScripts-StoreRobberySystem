@@ -5,8 +5,9 @@ Locales['en'] = {
     ['StoreCanBeRobbedText']        = 'The safe is locked',
     ['StoreCantBeRobbedText']       = 'This store has already been robbed',
     ['StartBreakingIntoSafeText']   = 'You have start to crack the safe',
+    ['StoreRobberyBlipText']        = 'Store Robbery',
 
     ----- Police Notifications Text -----
 
-    ['NotifyPolice']               = '~r~There is a store robbery in ~w~Grove ST Gas Station ~r~Press  ~g~[E] ~r~to put the position into the gps'
+    ['NotifyPolice']               = '~w~There is a store robbery ~r~Press ~g~[E] ~r~to put the position into the gps'
 }

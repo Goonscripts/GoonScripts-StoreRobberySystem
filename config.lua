@@ -8,10 +8,10 @@ local minute = 60 * second
 
 GoonScripts.MaxDistance 		= 3
 
-GoonScripts.DictAnim 			= "mini@safe_cracking"
-GoonScripts.AnimName			= "door_open_succeed_stand"
+GoonScripts.SafeCrackingAnimation   = 'amb@world_human_bum_wash@male@low@idle_a'
+GoonScripts.SafeCrackingDictionary  = 'idle_a'
 
 
-GoonScripts.StoreRobberyAmount	= 500
+GoonScripts.StoreRobberyAmount	= 15000
 
-GoonScripts.CooldownTime		= 30 * second
+GoonScripts.CooldownTime		= 10 * minute
