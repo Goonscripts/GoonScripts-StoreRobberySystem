@@ -2,15 +2,15 @@
  
 Work in Progress. Try if you want
 
-10 Stores to rob at the moment 
+19 Stores to rob
 
 blips
 
 Police Notifications where they can press e and get a gps location
 
-You need: 
+Discord Notification when robbery started
 
-mythic_notify
+You need:
+
 ESX
-
-Currently in Swedish to change to english just change sv to en in the config
+mythic_notify
