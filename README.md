@@ -1,5 +1,7 @@
 # GoonScripts-StoreRobberySystem
  
+ Discord Link: https://discord.gg/xSeaDFtFr6
+ 
 Work in Progress. Try if you want
 
 19 Stores to rob
